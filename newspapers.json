@@ -1,0 +1,11 @@
+{
+  "bbc" : {
+    "link": "http://www.bbc.com/"
+  },
+  "cbs" : {
+    "link": "http://cbs.com"
+  },
+  "cnn" : {
+    "link": "http://cnn.com"
+  }
+}
