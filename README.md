@@ -30,7 +30,7 @@ However, the plot below shows the collection of labeled data is so minuscule to 
 provided.<br>
 ![](images/result1.png)<br>
 
-Let's zoom into the cluster region.
+Let's zoom into the cluster region.<br>
 ![](images/result2.png)
 
 I still have so much to improve in performance. There could be a lot of things that I overlooked
