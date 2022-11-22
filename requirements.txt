@@ -12,7 +12,7 @@ lxml==4.9.1
 newspaper3k==0.2.8
 nltk==3.6.6
 numpy==1.18.4
-Pillow==9.0.1
+Pillow==9.3.0
 python-dateutil==2.8.1
 PyYAML==5.4
 regex==2020.5.14
